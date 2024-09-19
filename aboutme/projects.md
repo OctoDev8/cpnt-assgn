@@ -9,6 +9,7 @@
 ## Finished
 
 - Commit Catch
+
 - Follow the White Rabbit
+
 - Figma wireframes
-- Figma serflows

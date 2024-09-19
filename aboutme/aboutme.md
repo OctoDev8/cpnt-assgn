@@ -4,4 +4,4 @@ I am a goal-oriented individual that works hard to accomplish their visions with
 
 # Professional Career
 
-Currently none.
+Currently none yet.

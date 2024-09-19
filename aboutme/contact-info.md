@@ -4,5 +4,5 @@
 
 # E-mail
 
-johndoe@aol.com
+<johndoe@aol.com>
 
