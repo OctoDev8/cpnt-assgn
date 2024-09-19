@@ -34,7 +34,7 @@ Push your changes from your branch using **git push origin feature/your-feature-
 
 6. Open a Pull Request
 
-Go to the original repository and open a pull request (PR). Provide a clear description of your changes and why they are beneficial.
+Go to the original repository and open a pull request (PR) under the pull request menu. Provide a clear description of your changes and why they are beneficial.
 
 7. Review Process
 
